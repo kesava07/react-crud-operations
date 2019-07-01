@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+.selected{
+  color: #6767dc !important;
+  font-weight: 600;
+}
